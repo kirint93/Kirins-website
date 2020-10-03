@@ -1,0 +1,120 @@
+*{
+    margin: 10;
+    padding: 10;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-behavior: smooth;
+}
+
+ body {
+    background-color: #808080;
+ }
+ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 0;
+}
+
+li {
+    display: inline;
+  }
+
+#main-nav {
+ width: 100%;
+ height: 40px;
+background-color: #FF4500; /*orange
+ text-align: right: ;;
+  justify-content: space-between;
+    position: fixed;
+}
+#main-nav ul {
+    display: flex;
+    padding-right: 200px;
+    align-items: center; 
+}
+nav a {
+  text-decoration: none;
+  margin: auto 10px;
+  color: #2a232c;
+  cursor: pointer;
+}
+ 
+h1 {
+style="color: #ff0000";
+  font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    style="color: #000000;
+}
+
+h3 {
+style="color: #000000";
+font-size: 25px;
+}
+header {
+  height: 15vh;
+  background-color: #40798c;
+  color: #2a232c;
+  width: 100%;
+  font-size: 30px;
+ 
+#my name h4,
+#my name h2 {
+  font-weight: 500;
+}
+
+
+#my name a{
+      margin: 50px 0 0 0
+  padding: 10px;
+  border: solid 2px #2a232c;
+
+}
+
+ .button {
+ border-radius: 12px;
+padding: 5px;
+margin: 5px;
+font-size: 16px;
+ border-color: #000000;
+ cursor: pointer;
+ }
+
+#about me  p {
+    max-width: 80%;
+    text-align: justify;
+    margin: 50px auto;
+        font-size: 14px;
+}
+#about me img {
+  margin: 10 auto;
+  width: 90%;
+}
+
+ul {
+
+ list-style-position: outside;
+    font-size:14px;
+text-align: justify;
+}
+
+#skills .progress div {
+    style="color: ##00008B;
+}
+
+#skills .progress div {
+    style="color: ##00008B;
+}
+    
+#skills .progress div {
+    style="color: ##00008B;
+}
+       
+ footer {
+     background-color: #FF4500; ; /* orange
+ }
+ footer p {
+  padding: 12px;
+     }
+ }
