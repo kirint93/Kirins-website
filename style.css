@@ -1,0 +1,180 @@
+*{
+  margin: 10;
+  padding: 10;
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color:#d4d4d4;
+ }
+
+img {
+  float: left;
+  padding-left: 80px;
+  border: black;
+   border-radius: 50px;
+  }
+
+  #datetime {
+    float: left;
+  }
+nav {
+background-color:#388E8E;
+text-align: right;
+font-size: 20px;
+justify-content: space-between;
+width: auto;
+height: 80px
+}
+
+
+
+nav a {
+  text-decoration: none;
+  margin: auto 10px;
+    color: #2a232c;
+}
+
+#kirins button {
+  border-radius: 5px;
+  border: 3px solid black;
+  margin-right:80px;
+  margin-bottom: 2px;
+  margin-left: 0px;
+  padding: 5PX;
+  margin-bottom: 0px;
+
+  text-decoration: none;
+  width: auto;
+  font-size: 18px;
+  max-width: max-content;
+  color: #000000;
+  cursor: pointer;  
+}
+
+ul {
+list-style-type: none;
+margin: 10px;
+padding: 0;
+}
+
+
+
+h1 {
+  padding-top: 0px;
+color: red;
+font-family: monospace;
+font-size: 35px;
+text-transform: uppercase;
+}
+
+h2 {
+  font-size: 30px;
+  color: #000000;
+  background-color: #388E8E;
+  height: 40px;
+
+}
+
+h3 {
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-size: 25px;
+padding-bottom: 0px;
+padding-top: 0px;
+text-decoration: solid;
+}
+
+
+h4{
+  color:#000000;
+}
+
+#welcome {
+     margin: 10px 20px 100px;
+  
+background-size: cover;
+background-repeat: no-repeat;
+padding: 0px;
+}
+
+.button  {
+border-radius: 5px;
+border: 3px solid black;
+margin-right:80px;
+margin-bottom: 2px;
+padding: 5PX;
+margin-bottom: 0px;
+flex: right;
+text-decoration: none;
+width: auto;
+font-size: 18px;
+max-width: max-content;
+color: #000000;
+cursor: pointer;
+}
+
+img{
+  float: right;
+height: 300px;
+width: 300px;
+border-radius: 1px;
+}
+
+#about me{
+  padding-bottom: 20px;
+}
+#about me  p {
+  max-width: 80%;
+  text-align: justify;
+  margin: 50px auto;
+      font-size: 14px;
+    padding: 100px;
+}
+#about me img {
+margin: 10 auto;
+width: 90%;
+float: right;
+}
+
+ul {
+
+list-style-position: outside;
+  font-size:14px;
+text-align: justify;
+}
+
+
+#skills .progress div {
+  display: grid;
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  text-align: center;
+  background:brown
+
+ }
+
+ #contact{
+   padding-bottom:  20px;
+ }
+
+#contact p {
+  width: 80%;
+  text-align: justify;
+  height: 80%;
+  padding-bottom: 20px;
+}
+
+
+footer {
+ background-color: #388E8E;
+  height: 80px;
+ width: auto;
+}
+footer p{
+ bottom: 0px;
+ text-align: left;
+ margin-bottom: 0px;
+}
